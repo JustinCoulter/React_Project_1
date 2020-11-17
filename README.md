@@ -1,4 +1,4 @@
-![alt_text](images/2020-11-17 11.56.27.gif "app example")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
