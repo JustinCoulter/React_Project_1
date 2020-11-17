@@ -1,0 +1,14 @@
+import React from 'react'
+
+function Contact(){
+  return(
+    <div >
+      <h1 className="font-bold text-2x1 mb-3">Contact us</h1>
+      <p>
+        This is the contact us page content.
+      </p>
+    </div>
+  )
+}
+
+export default Contact;
