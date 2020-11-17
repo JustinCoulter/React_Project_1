@@ -1,3 +1,4 @@
+![alt_text](images/app_gif.gif "app example")
 
 # Getting Started with Create React App
 
